@@ -1,6 +1,6 @@
 ---
 title: SamLi Blog
-layout: template
+
 filename: index.md
 --- 
 
